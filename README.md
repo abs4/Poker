@@ -1,0 +1,1 @@
+A fully functioning game of poker with working graphic interface. The card game was created as a final project for CS 126 (Software Design Studio) at the University of Illinois at Urbana-Champaign. This was done in Spring 2018 as a Freshman.
